@@ -25,5 +25,6 @@ In this session, we’ll explore technical debt, how to properly document and tr
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Nebraska.Code() 2022](https://nebraskacode.amegala.com/Sessions/1358) | Lincoln, NE | July 15, 2022 | 2:30 pm CDT | Grand Ballroom | Available Afterwards | 
+| [Scenic City Summit 2022]](https://sceniccitysummit.com/) | Chattanooga, TN | July 22, 2022 | TBA | TBA | Available Afterwards |
 | [dev up 2022](https://www.devupconf.org/sessions) | St. Charles, MO | June 8, 2022 | 11:00 am CDT | Prosperity | [Slides](Presentations/TechnicalDebitIsNotFree_DevUp.pdf) |
-| [Nebraska.Code() 2022](https://nebraskacode.amegala.com/Sessions/1358) | Lincoln, NE | July 15, 2022 | 2:30 pm CDTG | Grand Ballroom | Available Afterwards | 
