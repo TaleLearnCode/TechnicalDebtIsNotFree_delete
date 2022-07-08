@@ -30,5 +30,5 @@ Teams often rack up tech debt without realizing it. Even mature teams might reco
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [Momentum 2022](https://momentumdevcon.com/) | Cincinnati, OH | October 20, 2022 | TBA | TBA | Available Afterwards |
 | [Nebraska.Code() 2022](https://nebraskacode.amegala.com/Sessions/1358) | Lincoln, NE | July 15, 2022 | 2:30 pm CDT | Grand Ballroom | Available Afterwards | 
-| [Scenic City Summit 2022](https://sceniccitysummit.com/) | Chattanooga, TN | July 22, 2022 | TBA | TBA | Available Afterwards |
+| [Scenic City Summit 2022](https://sceniccitysummit.com/) | Chattanooga, TN | July 22, 2022 | 2:00 pm EDT | Ballroom | Available Afterwards |
 | [dev up 2022](https://www.devupconf.org/sessions) | St. Charles, MO | June 8, 2022 | 11:00 am CDT | Prosperity | [Slides](Presentations/TechnicalDebitIsNotFree_DevUp.pdf) |
