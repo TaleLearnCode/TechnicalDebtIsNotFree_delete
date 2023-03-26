@@ -28,7 +28,7 @@ Teams often rack up tech debt without realizing it. Even mature teams might reco
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
-| [InflectraCON 2023](https://www.inflectracon.com/ | Washington, DC | April 21, 2023 | 1:15 pm | Mt. Everest (Auditorium) | [Slides](Presentations/TechnicalDebtIsNotFree-InflectraCON.pdf) |
+| [InflectraCON 2023](https://www.inflectracon.com/) | Washington, DC | April 21, 2023 | 1:15 pm | Mt. Everest (Auditorium) | [Slides](Presentations/TechnicalDebtIsNotFree-InflectraCON.pdf) |
 | [Orlando Code Camp 2023](https://orlandocodecamp.com/) | Sanford, FL | March 25, 2023 | 3:30 pm | 2207 | [Slides](Presentations/TechnicalDebtIsNotFree-Orlando.pdf) |
 | [VSLive Las Vegas 2023](https://vslive.com/events/las-vegas-2023/home.aspx) | Las Vegas, LV | March 23, 2023 | 11:00 AM PDT | Celebrity 3 | [Slides](Presentations/TH09_TechnicalDebitIsNotFree.pdf) |
 | [Scenic City Summit 2022](https://sceniccitysummit.com/) | Chattanooga, TN | July 22, 2022 | 2:00 pm EDT | Ballroom | [Slides](Presentations/TechnicalDebitIsNotFree_ScenicCitySummit.pdf) |
