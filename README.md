@@ -28,6 +28,9 @@ Teams often rack up tech debt without realizing it. Even mature teams might reco
 
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
+| [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 21 - 22, 2024 | TBA | TBA | Available Afterwards |
+| [Code Mash](https://www.codemash.org/) | Sandusky, OH | January 10 - 13, 2024 | TBA | TBA | Available Afterwards |
+| [Tech Bash](https://techbash.com/) | Pocono Manor, PA | November 8, 2023 | 1:30 pm EST | Aloeswood | [Slides](Presentations/TechnicalDebtIsNotFree-TechBash.pdf) |
 | [DeveloperWeek Management 2023](https://www.developerweek.com/global/conference/management/) | Virtual | May 9, 2023 | 2:00 pm PDT | Available Afterwards |
 | [InflectraCON 2023](https://www.inflectracon.com/) | Washington, DC | April 21, 2023 | 1:15 pm EDT | Hawaii | [Slides](Presentations/TechnicalDebtIsNotFree-InflectraCON.pdf) |
 | [Orlando Code Camp 2023](https://orlandocodecamp.com/) | Sanford, FL | March 25, 2023 | 3:30 pm EDT | 2207 | [Slides](Presentations/TechnicalDebtIsNotFree-Orlando.pdf) |
