@@ -1,5 +1,8 @@
 ![Technical Debt is not Free](Thumbnail.jpg)
 
+## Elevator Pitch
+Unlock the secrets to managing technical debt effectively! Learn to identify, document, and take decisive action in our session for a debt-free future in software development.
+
 ## Abstract
 So many software development teams rack up technical debt and do not even realize it. But even if you are a more mature team and recognize and maybe even document technical debt, what good is it if you do not take action. Just like in other parts of our life, just because we can accumulate bunches of debt, if we do not take steps to handle it, we will be destined for bad times when that comes due. In this session, we’ll explore technical debt, how to properly document and track it, and – more importantly – how to address it so that it does not cause significant issues down the road.
 
@@ -29,7 +32,7 @@ Teams often rack up tech debt without realizing it. Even mature teams might reco
 | Event | Location | Date | Time | Room | Downloads |
 |-------|:--------:|-----:|-----:|-----:|----------:|
 | [Michigan Technology Conference](https://www.mitechcon.org/) | Pontiac, MI | March 21 - 22, 2024 | TBA | TBA | Available Afterwards |
-| [Code Mash](https://www.codemash.org/) | Sandusky, OH | January 10 - 13, 2024 | TBA | TBA | Available Afterwards |
+| [Code Mash](https://www.codemash.org/) | Sandusky, OH | January 10 - 13, 2024 | TBA | TBA | [Slides](Presentations/TechnicalDebtIsNotFree-CodeMash.pdf) |
 | [Tech Bash](https://techbash.com/) | Pocono Manor, PA | November 8, 2023 | 1:30 pm EST | Aloeswood | [Slides](Presentations/TechnicalDebtIsNotFree-TechBash.pdf) |
 | [DeveloperWeek Management 2023](https://www.developerweek.com/global/conference/management/) | Virtual | May 9, 2023 | 2:00 pm PDT | Available Afterwards |
 | [InflectraCON 2023](https://www.inflectracon.com/) | Washington, DC | April 21, 2023 | 1:15 pm EDT | Hawaii | [Slides](Presentations/TechnicalDebtIsNotFree-InflectraCON.pdf) |
